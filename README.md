@@ -7,8 +7,11 @@ Componentes del Grupo:
  
  **Pablo Molina Martinez** - alu0101103181@ull.edu.es
 
- **Andrea Hernández Martín** - alu0101119137@ull.edu.es 
+ **Andrea Hernández Martín** - alu0101119137@ull.edu.es
+## Requisitos
 
+![pdf_requisitos](/requisitos/requisitos.pdf)
+s
 ## Modelo Entidad Relación
 
 - Enlace Draw.io [Pinche Aquí](https://drive.google.com/file/d/1Tnq0bKm0KxzTxblxzq9HbJai-KBbSK_9/view?usp=sharing)
