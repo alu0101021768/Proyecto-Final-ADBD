@@ -21,7 +21,7 @@ Componentes del Grupo:
 
 ## Modelo Lógico Relacional
 
-- Enlace modelo WorkBench: [Pinche Aquí](/esquema_logico_relacional/modelo_logico).
+- Enlace modelo WorkBench: [Pinche Aquí](/esquema_logico_relacional/modelo_logico.mwb).
 - Fichero PNG del Modelo: [Pinche Aquí](/esquema_logico_relacional/modelo_logico.png).
 - Enlace Draw.io modelo Lógico relacional: [Pinche Aquí](https://drive.google.com/file/d/1C1DDc1np18_3aVuqIT14p-FFQWQ6hlss/view?usp=sharing).
 - Fichero Draw.io modelo Lógico relacional: [Pinche Aquí](/esquema_logico_relacional/esquema_logico.drawio).
