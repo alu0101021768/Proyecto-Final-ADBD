@@ -9,7 +9,7 @@ Componentes del Grupo:
 
  **Andrea Hernández Martín** - alu0101119137@ull.edu.es
 
-## Requisitos
+## [Requisitos](/requisitos/)
 
 - PDF con los requisitos del proyecto: [Pinche Aquí](/requisitos/requisitos_proyecto.pdf).
 
