@@ -11,7 +11,7 @@ Componentes del Grupo:
 
 ## Requisitos
 
-- PDF con los requisitos del proyecto: [Pinche Aquí](/requisitos/requisitos.pdf).
+- PDF con los requisitos del proyecto: [Pinche Aquí](/requisitos/requisitos_proyecto.pdf).
 
 ## Modelo Entidad Relación
 
