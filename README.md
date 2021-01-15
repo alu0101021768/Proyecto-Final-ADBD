@@ -30,6 +30,6 @@ Componentes del Grupo:
 
 ## Scripts de Inserción
 
-- Script de inserción de datos: [Pinche Aquí](/scripts_inserccion/carga-datos.sql).
+- Script de inserción de datos: [Pinche Aquí](/scripts_insercion/carga-datos.sql).
 
 
