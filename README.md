@@ -29,11 +29,12 @@ Componentes del Grupo:
 
 ## Scripts de Creación
 
+- PDF con la explicación de la generación de la base de datos: [Pinche Aquí](/scripts_creacion/generacion_codigo.pdf).
 - Script de creación de base de datos: [Pinche Aquí](/scripts_creacion/script-creacion.sql).
 
 ## Scripts de Inserción
 
-- PDF con la explicacón de la inserción de datos: [Pinche Aquí](/scripts_insercion/carga_de_datos.pdf).
+- PDF con la explicación de la inserción de datos: [Pinche Aquí](/scripts_insercion/carga_de_datos.pdf).
 - Script de inserción de datos: [Pinche Aquí](/scripts_insercion/carga-datos.sql).
 
 
