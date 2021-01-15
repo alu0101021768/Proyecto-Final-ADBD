@@ -1,4 +1,4 @@
-# Proyecto-Final-ADBD
+# Proyecto Final ADBD
 Componentes del Grupo:
 
  **Chesen Castilla Gil** - alu0101046853@ull.edu.es
@@ -15,6 +15,21 @@ Componentes del Grupo:
 
 ## Modelo Entidad Relación
 
-- Enlace Draw.io [Pinche Aquí](https://drive.google.com/file/d/1Tnq0bKm0KxzTxblxzq9HbJai-KBbSK_9/view?usp=sharing).
-- Fichero Draw.io [Fichero](/esquema_ER/Entidad_Relacion.drawio).
+- Enlace Draw.io: [Pinche Aquí](https://drive.google.com/file/d/1Tnq0bKm0KxzTxblxzq9HbJai-KBbSK_9/view?usp=sharing).
+- Fichero Draw.io: [Fichero](/esquema_ER/Entidad_Relacion.drawio).
 ![Imagen_ER](/esquema_ER/Entidad_Relacion.png)
+
+## Modelo Lógico Relacional
+
+- Enlace modelo WorkBench: [Pinche Aquí](/esquema_logico_relacional/modelo_logico).
+![Imagen_LR](/esquema_logico_relacional/modelo_logico.png)
+
+## Scripts de Creación
+
+- Script de creación de base de datos: [Pinche Aquí](/scripts_creacion/script-creacion.sql).
+
+## Scripts de Insercción
+
+- Script de insercción de datos: [Pinche Aquí](/scripts_inserccion/carga-datos.sql).
+
+
