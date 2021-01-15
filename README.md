@@ -37,4 +37,10 @@ Componentes del Grupo:
 - PDF con la explicación de la inserción de datos: [Pinche Aquí](/scripts_insercion/carga_de_datos.pdf).
 - Script de inserción de datos: [Pinche Aquí](/scripts_insercion/carga-datos.sql).
 
+## Distribución de tareas del proyecto
+
+- PDF con la distribución de tareas: [Pinche Aquí](/distribucion_tareas/distribucion_tareas.pdf).
+- PNG con la distribución de tareas: [Pinche Aquí](/distribucion_tareas/distribucion_tareas.png).
+
+
 
