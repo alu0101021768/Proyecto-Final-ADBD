@@ -15,6 +15,7 @@ Componentes del Grupo:
 
 ## Modelo Entidad Relación
 
+- PDF con la explicación del modelo Entidad Relación: [Pinche Aquí](/esquema_ER/Modelo_ERE.pdf).
 - Enlace Draw.io: [Pinche Aquí](https://drive.google.com/file/d/1pAqsExqwyG6ekjEgwRxSvGj2Z6GDcLFY/view?usp=sharing).
 - Fichero Draw.io: [Pinche Aquí](/esquema_ER/entidad_relacion.drawio).
 - Fichero PNG del Modelo: [Pinche Aquí](/esquema_ER/entidad_relacion.png).
