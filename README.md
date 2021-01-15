@@ -11,18 +11,18 @@ Componentes del Grupo:
 
 ## Requisitos
 
-- PDF con los requisitos del proyecto: [Archivo](/requisitos/requisitos.pdf).
+- PDF con los requisitos del proyecto: [Pinche Aquí](/requisitos/requisitos.pdf).
 
 ## Modelo Entidad Relación
 
 - Enlace Draw.io: [Pinche Aquí](https://drive.google.com/file/d/1Tnq0bKm0KxzTxblxzq9HbJai-KBbSK_9/view?usp=sharing).
-- Fichero Draw.io: [Fichero](/esquema_ER/Entidad_Relacion.drawio).
-![Imagen_ER](/esquema_ER/Entidad_Relacion.png)
+- Fichero Draw.io: [Pinche Aquí](/esquema_ER/Entidad_Relacion.drawio).
+- Fichero PNG del Modelo: [Pinche Aquí](/esquema_ER/Entidad_Relacion.png).
 
 ## Modelo Lógico Relacional
 
 - Enlace modelo WorkBench: [Pinche Aquí](/esquema_logico_relacional/modelo_logico).
-![Imagen_LR](/esquema_logico_relacional/modelo_logico.png)
+- Fichero PNG del Modelo: [Pinche Aquí](/esquema_logico_relacional/modelo_logico.png).
 
 ## Scripts de Creación
 
