@@ -1,4 +1,4 @@
-# Proyecto Final ADBD
+# Proyecto Final de ADBD: Gestión de TGF/TFM de la ULL
 Componentes del Grupo:
 
  **Chesen Castilla Gil** - alu0101046853@ull.edu.es
