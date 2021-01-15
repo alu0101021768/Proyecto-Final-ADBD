@@ -23,6 +23,9 @@ Componentes del Grupo:
 
 - Enlace modelo WorkBench: [Pinche Aquí](/esquema_logico_relacional/modelo_logico).
 - Fichero PNG del Modelo: [Pinche Aquí](/esquema_logico_relacional/modelo_logico.png).
+- Enlace Draw.io modelo Lógico relacional: [Pinche Aquí](https://drive.google.com/file/d/1C1DDc1np18_3aVuqIT14p-FFQWQ6hlss/view?usp=sharing).
+- Fichero Draw.io modelo Lógico relacional: [Pinche Aquí](/esquema_logico_relacional/esquema_logico.drawio).
+- Fichero PNG del Draw.io del modelo Lógico relacional: [Pinche Aquí](/esquema_logico_relacional/esquema_logico.png).
 
 ## Scripts de Creación
 
@@ -30,6 +33,7 @@ Componentes del Grupo:
 
 ## Scripts de Inserción
 
+- PDF con la explicacón de la inserción de datos: [Pinche Aquí](/scripts_insercion/carga_de_datos.pdf).
 - Script de inserción de datos: [Pinche Aquí](/scripts_insercion/carga-datos.sql).
 
 
