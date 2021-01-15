@@ -15,9 +15,9 @@ Componentes del Grupo:
 
 ## Modelo Entidad Relación
 
-- Enlace Draw.io: [Pinche Aquí](https://drive.google.com/file/d/1Tnq0bKm0KxzTxblxzq9HbJai-KBbSK_9/view?usp=sharing).
-- Fichero Draw.io: [Pinche Aquí](/esquema_ER/Entidad_Relacion.drawio).
-- Fichero PNG del Modelo: [Pinche Aquí](/esquema_ER/Entidad_Relacion.png).
+- Enlace Draw.io: [Pinche Aquí](https://drive.google.com/file/d/1pAqsExqwyG6ekjEgwRxSvGj2Z6GDcLFY/view?usp=sharing).
+- Fichero Draw.io: [Pinche Aquí](/esquema_ER/entidad_relacion.drawio).
+- Fichero PNG del Modelo: [Pinche Aquí](/esquema_ER/entidad_relacion.png).
 
 ## Modelo Lógico Relacional
 
@@ -28,8 +28,8 @@ Componentes del Grupo:
 
 - Script de creación de base de datos: [Pinche Aquí](/scripts_creacion/script-creacion.sql).
 
-## Scripts de Insercción
+## Scripts de Inserción
 
-- Script de insercción de datos: [Pinche Aquí](/scripts_inserccion/carga-datos.sql).
+- Script de inserción de datos: [Pinche Aquí](/scripts_inserccion/carga-datos.sql).
 
 
