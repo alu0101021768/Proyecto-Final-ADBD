@@ -5,7 +5,7 @@ Componentes del Grupo:
 
  **Néstor Torres Díaz** - alu0101021768@ull.edu.es
  
- **Pablo Molina Martinez** - alu0101103181@ull.edu.es
+ **Pablo Molina Martínez** - alu0101103181@ull.edu.es
 
  **Andrea Hernández Martín** - alu0101119137@ull.edu.es
 
